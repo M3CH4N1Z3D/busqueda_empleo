@@ -1,8 +1,9 @@
 import time
 import random
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from .base_scraper import BaseScraper
 
-class JobScraper:
+class ComputrabajoScraper(BaseScraper):
     def __init__(self):
         # URL base configurada para Bogotá, Colombia
         self.base_url = "https://co.computrabajo.com/empleos-en-bogota-dc"
@@ -150,7 +151,7 @@ class JobScraper:
         return resultados
 
 if __name__ == '__main__':
-    scraper = JobScraper()
+    scraper = ComputrabajoScraper()
     cargo_prueba = 'Desarrollador Python Junior'
     print(f"Iniciando prueba de scraping para: {cargo_prueba}")
     

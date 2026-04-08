@@ -6,7 +6,7 @@ from pypdf import PdfReader
 from tabulate import tabulate
 
 from profile_analyzer import ProfileAnalyzer
-from scraper import JobScraper
+from scrapers import ComputrabajoScraper, ElEmpleoScraper, TorreScraper
 from match_evaluator import MatchEvaluator
 from cv_tailor import CVTailor
 from email_notifier import EmailNotifier
@@ -54,7 +54,7 @@ def main():
         print("No se encontraron cargos ideales para buscar.")
         sys.exit(1)
         
-    scraper = JobScraper()
+    scrapers_activos = [ComputrabajoScraper(), ElEmpleoScraper(), TorreScraper()]
     evaluator = MatchEvaluator()
     
     ofertas_filtradas = []
@@ -64,14 +64,18 @@ def main():
     
     for cargo in cargos_ideales:
         print(f"\nBuscando ofertas para: {cargo}")
-        try:
-            ofertas = scraper.buscar_ofertas(cargo)
-            print(f"Se encontraron {len(ofertas)} ofertas para '{cargo}'.")
-        except Exception as e:
-            print(f"Error al buscar ofertas para '{cargo}': {e}")
-            continue
+        ofertas_consolidadas = []
+        
+        for scraper in scrapers_activos:
+            try:
+                ofertas = scraper.buscar_ofertas(cargo)
+                ofertas_consolidadas.extend(ofertas)
+                print(f"Se encontraron {len(ofertas)} ofertas para '{cargo}' con {scraper.__class__.__name__}.")
+            except Exception as e:
+                print(f"Error al buscar ofertas para '{cargo}' con {scraper.__class__.__name__}: {e}")
+                continue
             
-        for oferta in ofertas:
+        for oferta in ofertas_consolidadas:
             total_ofertas_evaluadas += 1
             titulo = oferta.get('titulo_oferta', 'Sin título')
             empresa = oferta.get('empresa', 'Empresa desconocida')
