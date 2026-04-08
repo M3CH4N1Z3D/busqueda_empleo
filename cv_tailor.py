@@ -15,7 +15,12 @@ class CVTailor:
     def adaptar_cv(self, cv_base_text: str, job_description: str, empresa: str) -> str:
         prompt = (
             "Analiza el CV base y la oferta de trabajo. Devuelve un JSON con TRES claves: "
-            "resumen_profesional (Reescribe el resumen profesional destacando la experiencia y tecnologías que hagan match exacto con la oferta. Máximo 2 párrafos. Tono profesional. SIN formato Markdown, texto plano), "
+            "resumen_profesional (Reescribe el resumen profesional destacando la experiencia y tecnologías que hagan match exacto con la oferta. Máximo 2 párrafos. Tono profesional. SIN formato Markdown, texto plano. "
+            "REGLAS ESTRICTAS PARA RESUMEN_PROFESIONAL: "
+            "1. PROHIBIDA LA TERCERA PERSONA: NUNCA escribas 'Él es', 'Mauricio tiene', etc. "
+            "2. PROHIBIDO INCLUIR EL NOMBRE: NUNCA menciones el nombre del candidato en el resumen. "
+            "3. OBLIGATORIO PRIMERA PERSONA O NEUTRO: Escribe desde la perspectiva del candidato (ej. 'Soy un desarrollador...') o usa un tono profesional directo (ej. 'Desarrollador Full Stack con experiencia en...'). "
+            "4. ESTILO: Mantén un tono maduro, técnico y directo al grano.), "
             "aptitudes_clave (Una lista de las mejores habilidades para la oferta, presentadas en viñetas o texto plano) y "
             "exp_spark_team (Reescribe brevemente las responsabilidades del rol en SPARK TEAM para alinearlas con la oferta de trabajo. Máximo 2 párrafos cortos). "
             "NO incluyas texto fuera del JSON.\n\n"
