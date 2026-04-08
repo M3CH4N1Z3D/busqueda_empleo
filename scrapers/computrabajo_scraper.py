@@ -15,7 +15,7 @@ class ComputrabajoScraper(BaseScraper):
 
     def buscar_ofertas(self, cargo):
         """
-        Busca ofertas de trabajo para un cargo específico y extrae los primeros 3 resultados.
+        Busca ofertas de trabajo para un cargo específico y extrae los primeros 10 resultados.
         """
         resultados = []
         
@@ -56,7 +56,7 @@ class ComputrabajoScraper(BaseScraper):
                     print("No se encontraron resultados o la página tardó mucho en cargar.")
                     return resultados
                 
-                # Obtener los enlaces de las primeras 3 ofertas orgánicas
+                # Obtener los enlaces de las primeras 10 ofertas orgánicas
                 ofertas_locators = page.locator("article.box_offer a.js-o-link").all()
                 enlaces_ofertas = []
                 
@@ -64,7 +64,7 @@ class ComputrabajoScraper(BaseScraper):
                     href = loc.get_attribute("href")
                     if href and href not in enlaces_ofertas:
                         enlaces_ofertas.append(href)
-                    if len(enlaces_ofertas) >= 3:
+                    if len(enlaces_ofertas) >= 10:
                         break
 
                 print(f"Se encontraron {len(enlaces_ofertas)} ofertas para analizar.")
