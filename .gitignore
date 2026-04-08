@@ -1,0 +1,6 @@
+*.env
+escalamiento famisanatr.txt
+*.pdf
+*.docx
+/__pycache__/
+/Aplicaciones
