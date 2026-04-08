@@ -10,7 +10,7 @@ class ElEmpleoScraper(BaseScraper):
         ofertas = []
         
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(headless=False)
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
             )
@@ -18,9 +18,17 @@ class ElEmpleoScraper(BaseScraper):
             
             try:
                 # Navegar a la página de búsqueda
-                search_url = f"https://www.elempleo.com/co/ofertas-empleo/bogota/{cargo.replace(' ', '-')}"
+                search_url = "https://www.elempleo.com/co/ofertas-empleo/"
                 logger.info(f"Navegando a {search_url}")
                 page.goto(search_url, wait_until='domcontentloaded', timeout=60000)
+                
+                # Buscar explícitamente el input del buscador
+                logger.info(f"Buscando cargo: {cargo}")
+                page.fill('input.js-search-input, input[type="search"], input[placeholder*="Cargo"], input[placeholder*="cargo"]', cargo)
+                page.keyboard.press('Enter')
+                
+                # Esperar a que carguen los resultados reales
+                page.wait_for_timeout(3000)
                 
                 # Esperar a que carguen los resultados
                 try:
@@ -28,13 +36,13 @@ class ElEmpleoScraper(BaseScraper):
                 except PlaywrightTimeoutError:
                     logger.warning("No se encontraron resultados con '.result-item', intentando selectores alternativos.")
                 
-                # Extraer los 3 primeros resultados
+                # Extraer los 10 primeros resultados
                 resultados = page.query_selector_all('.result-item')
                 if not resultados:
                     # Fallback selector
                     resultados = page.query_selector_all('.job-item')
                 
-                resultados = resultados[:3]
+                resultados = resultados[:10]
                 
                 enlaces_ofertas = []
                 for resultado in resultados:
@@ -57,8 +65,10 @@ class ElEmpleoScraper(BaseScraper):
                         logger.error(f"Error extrayendo info de la lista: {e}")
                 
                 # Extraer detalle de cada oferta
-                for oferta in enlaces_ofertas:
+                total_ofertas = len(enlaces_ofertas)
+                for i, oferta in enumerate(enlaces_ofertas, 1):
                     try:
+                        print(f"Analizando oferta {i} de {total_ofertas}...")
                         logger.info(f"Extrayendo detalle de {oferta['url_aplicacion']}")
                         page.goto(oferta['url_aplicacion'], wait_until='domcontentloaded', timeout=60000)
                         
