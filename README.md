@@ -91,10 +91,19 @@ PERSONAL_EMAIL=tu_correo_destino@gmail.com
 ### 2. Archivos Base Requeridos
 Debes colocar los siguientes archivos en la raíz del proyecto:
 * 📄 **`mi_hv.pdf`**: Tu Hoja de Vida original en formato PDF. De aquí la IA extraerá tu información base.
-* 📝 **`plantilla_hv.docx`**: Una plantilla de Microsoft Word con etiquetas de `docxtpl`. El sistema buscará y reemplazará las siguientes etiquetas en el documento:
+* 📝 **`plantilla_hv.docx`**: Una plantilla de Microsoft Word. El sistema buscará y reemplazará las siguientes etiquetas en el documento:
   * `{{ RESUMEN_PROFESIONAL }}`
-  * `{{ APTITUDES_CLAVE }}` (Se espera que esté en formato de lista)
+  * `{{ APTITUDES_CLAVE }}` (Se reemplazará por una lista de viñetas)
   * `{{ EXP_SPARK_TEAM }}` (O la experiencia específica que hayas configurado en `cv_tailor.py`)
+
+#### 💡 Guía para crear tu `plantilla_hv.docx`
+Para asegurar que el sistema reemplace correctamente los datos en tu plantilla, sigue estas recomendaciones:
+1. **Ubicación de los marcadores:** Puedes colocar las etiquetas `{{ ... }}` en cualquier parte del documento: en el texto principal, dentro de **cuadros de texto**, **formas** (como barras laterales de color), **encabezados** o **pies de página**. El sistema está diseñado para encontrarlos en cualquier estructura.
+2. **Evita el formato dividido:** Word a veces divide el texto internamente si cambias el formato (negrita, color, fuente) a la mitad de una etiqueta, o si el corrector ortográfico la marca. Para evitar que la etiqueta se rompa:
+   * Escribe la etiqueta completa (ej. `{{ RESUMEN_PROFESIONAL }}`) en el Bloc de notas.
+   * Cópiala y pégala en tu documento de Word usando la opción **"Conservar solo texto"**.
+   * Aplica el formato (tamaño, color, fuente) seleccionando **toda la etiqueta junta**, incluyendo las llaves `{{ }}`.
+3. **Espacio para el contenido:** Ten en cuenta que el texto generado por la IA puede ser más largo o más corto que la etiqueta. Asegúrate de que los cuadros de texto o las tablas tengan configurado el ajuste automático de tamaño para que el texto no se corte.
 
 ---
 

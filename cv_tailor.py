@@ -88,6 +88,78 @@ class CVTailor:
         # Guardar temporal
         doc.save(temp_docx_path)
         
+        # --- REEMPLAZO UNIVERSAL PARA FORMAS, CUADROS DE TEXTO, ENCABEZADOS Y PIES DE PÁGINA ---
+        # docxtpl a veces ignora marcadores dentro de formas (shapes) o cuadros de texto.
+        # Esta lógica adicional asegura que cualquier marcador restante sea reemplazado preservando el formato.
+        from docx import Document
+        from docx.text.paragraph import Paragraph
+        
+        doc_manual = Document(temp_docx_path)
+        
+        # Formatear lista de aptitudes como viñetas para el reemplazo manual
+        aptitudes_str = "\n• ".join(lista_aptitudes) if lista_aptitudes else ""
+        if aptitudes_str and not aptitudes_str.startswith("•"):
+            aptitudes_str = "• " + aptitudes_str
+            
+        replacements = {
+            '{{ RESUMEN_PROFESIONAL }}': json_data.get('resumen_profesional', ''),
+            '{{ APTITUDES_CLAVE }}': aptitudes_str,
+            '{{ EXP_SPARK_TEAM }}': json_data.get('exp_spark_team', '')
+        }
+        
+        # Buscar en todas las partes del documento (cuerpo principal, encabezados, pies de página)
+        parts = [doc_manual.part]
+        for rel in doc_manual.part.rels.values():
+            if "header" in rel.reltype or "footer" in rel.reltype:
+                parts.append(rel.target_part)
+                
+        for part in parts:
+            element = part.element
+            # Buscar todos los párrafos, incluyendo los que están dentro de cuadros de texto (w:txbxContent)
+            for p_node in element.xpath('.//w:p'):
+                p = Paragraph(p_node, part)
+                for key, val in replacements.items():
+                    while key in p.text:
+                        # Encontrar el índice de inicio del marcador en el texto del párrafo
+                        start_idx = p.text.find(key)
+                        if start_idx == -1:
+                            break
+                            
+                        # Mapear cada carácter del párrafo a su run correspondiente
+                        run_mapping = []
+                        for run_idx, run in enumerate(p.runs):
+                            for char_idx in range(len(run.text)):
+                                run_mapping.append((run_idx, char_idx))
+                                
+                        if not run_mapping or start_idx + len(key) > len(run_mapping):
+                            break
+                            
+                        start_run_idx = run_mapping[start_idx][0]
+                        end_run_idx = run_mapping[start_idx + len(key) - 1][0]
+                        
+                        if start_run_idx == end_run_idx:
+                            # El marcador está completamente dentro de un solo run
+                            run = p.runs[start_run_idx]
+                            run.text = run.text.replace(key, str(val), 1)
+                        else:
+                            # El marcador está dividido en múltiples runs
+                            for i in range(start_run_idx, end_run_idx + 1):
+                                run = p.runs[i]
+                                if i == start_run_idx:
+                                    # Mantener el texto antes del marcador y añadir el reemplazo
+                                    run_start_char = run_mapping[start_idx][1]
+                                    run.text = run.text[:run_start_char] + str(val)
+                                elif i == end_run_idx:
+                                    # Mantener el texto después del marcador
+                                    run_end_char = run_mapping[start_idx + len(key) - 1][1]
+                                    run.text = run.text[run_end_char + 1:]
+                                else:
+                                    # Los runs intermedios se vacían
+                                    run.text = ""
+                                    
+        doc_manual.save(temp_docx_path)
+        # ---------------------------------------------------------------------------------------
+        
         # Convertir a PDF
         try:
             convert(temp_docx_path, pdf_path)
