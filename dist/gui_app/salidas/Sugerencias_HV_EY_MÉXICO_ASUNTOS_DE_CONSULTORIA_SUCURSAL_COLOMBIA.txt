@@ -1,0 +1,31 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: EY MÉXICO ASUNTOS DE CONSULTORIA SUCURSAL COLOMBIA
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Líder Técnico de Programas y Soluciones de Software
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un desarrollador Full Stack con más de 14 años de experiencia profesional, incluyendo roles de liderazgo técnico y gestión de programas de software. Cuento con una sólida trayectoria en la creación e implementación de soluciones digitales complejas, destacando en arquitecturas modernas y la coordinación de equipos multidisciplinarios para la entrega de resultados de alto impacto.
+
+Mi experiencia abarca tecnologías como Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Python y FastAPI, así como el despliegue en servicios cloud (AWS y Google Cloud). He liderado la conceptualización y ejecución de micro soluciones, automatizaciones e integraciones, gestionando el stack tecnológico, optimizando procesos y asegurando la alineación con los objetivos de negocio. Poseo un nivel de inglés B2.
+
+APTITUDES CLAVE:
+--------------------
+- Liderazgo Técnico y Gestión de Programas
+- Desarrollo Full Stack (Next.js, React, Node.js, TypeScript, Python, FastAPI)
+- Arquitecturas de Microservicios y Cloud (AWS, Google Cloud)
+- Gestión de Proyectos Ágiles y Coordinación de Equipos
+- Diseño e Implementación de APIs RESTful
+- Gestión de Recursos y Presupuesto Técnico
+- Estandarización de Procesos y Mejora Continua
+- Resolución de Problemas y Gestión de Riesgos
+- Comunicación Estratégica y Elaboración de Informes
+- Inglés B2
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, he liderado el desarrollo y la implementación de soluciones técnicas avanzadas y micro soluciones, gestionando el stack tecnológico completo para crear automatizaciones, integraciones y prototipos funcionales. Mis responsabilidades incluyeron la traducción de requerimientos complejos en planes de ejecución concretos y la ejecución de la lógica avanzada.
+
+He sido clave en la estrategia y gestión técnica, supervisando la adopción de herramientas y estandarizando procesos. También me encargué de la gestión de permisos y accesos, y de proporcionar soporte funcional avanzado, asegurando la optimización y el valor de las soluciones entregadas.

@@ -1,0 +1,34 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: ADECCO COLOMBIA S A
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Project Manager IT con Liderazgo Técnico y Full Stack
+
+RESUMEN PROFESIONAL:
+--------------------
+Cuento con más de 5 años de experiencia en roles de liderazgo y coordinación de proyectos tecnológicos, combinando una sólida trayectoria en ingeniería con desarrollo full-stack. Poseo experiencia en la planificación estratégica, gestión de recursos, coordinación de tareas de equipo y comunicación efectiva con stakeholders, asegurando el cumplimiento de cronogramas y entregables en proyectos IT.
+
+Mi perfil híbrido me permite abordar la gestión de proyectos con una comprensión profunda de los desafíos técnicos, la implementación de soluciones y la mitigación de riesgos. He liderado la ejecución de proyectos complejos, la automatización de procesos y la integración de sistemas, utilizando tecnologías como Next.js, React, Node.js, PostgreSQL, y Python con FastAPI. Mi enfoque está en generar valor a través de la dirección y entrega exitosa de iniciativas tecnológicas.
+
+APTITUDES CLAVE:
+--------------------
+- Project Management IT
+- Gestión de Proyectos de Software
+- Coordinación de Equipos y Tareas
+- Seguimiento de Cronogramas y Entregables
+- Levantamiento y Mitigación de Riesgos
+- Comunicación Estratégica con Stakeholders y Clientes
+- Gestión Administrativa de Proyectos
+- Documentación de Proyectos y Lecciones Aprendidas
+- Implementación de Soluciones Tecnológicas
+- Automatización de Procesos y Scripting
+- Negociación y Gestión de Proveedores
+- Resolución de Problemas
+- Desarrollo Full Stack (Next.js, React, Node.js, PostgreSQL, Python)
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Lead Técnico, lideré la implementación de soluciones y micro-soluciones, gestionando la ejecución de prototipos funcionales y automatizaciones. Mi rol se centró en la dirección técnica para abordar desafíos complejos y eliminar barreras de adopción tecnológica, actuando como un gestor clave en la entrega de valor de los proyectos.
+
+Fui responsable de la gestión de la caja de herramientas tecnológica, incluyendo la planificación y ejecución de integraciones y scripting para potenciar las soluciones. Adicionalmente, mi experiencia abarcó el soporte funcional avanzado y la gestión de permisos y accesos, elementos cruciales para la operatividad y la comunicación efectiva dentro del ciclo de vida del proyecto.

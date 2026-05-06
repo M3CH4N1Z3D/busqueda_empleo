@@ -1,0 +1,34 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: BANCO DE BOGOTA
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Desarrollador Full Stack JavaScript (Next.js)
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un desarrollador Full Stack con sólida experiencia en la creación de soluciones técnicas y optimización de procesos mediante tecnologías modernas. Mi enfoque se centra en el desarrollo de software robusto, con dominio de JavaScript, Next.js, React, TypeScript, Node.js, Express, HTML y CSS, complementado con bases de datos como PostgreSQL. Aporto una trayectoria comprobada en programación lógica y diseño de interfaces de usuario altamente funcionales.
+
+He liderado y ejecutado proyectos de automatización e integración, utilizando herramientas como Google Apps Script, AppSheet y servicios cloud AWS/Google Cloud. Cuento con experiencia en la implementación de agentes de IA y la generación de APIs RESTful, lo que me permite garantizar la continuidad operativa y la entrega oportuna y confiable de datos, alineado con las exigencias de agilidad y competitividad en entornos de alta demanda.
+
+APTITUDES CLAVE:
+--------------------
+- Desarrollo Full Stack JavaScript
+- Next.js, React, TypeScript
+- Node.js, Express.js
+- HTML, CSS
+- PostgreSQL
+- Automatización de Procesos
+- Integración de APIs
+- Desarrollo y optimización de soluciones técnicas
+- Gestión de Bases de Datos
+- Servicios Cloud (AWS, Google Cloud)
+- Agentes de IA (MCP, Cursor, Claude, Copilot)
+- Resolución de problemas
+- Git y GitHub
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack en SPARK TEAM, lideré el desarrollo y la implementación de soluciones técnicas avanzadas, enfocándome en la creación de micro soluciones, automatizaciones e integraciones para optimizar procesos operativos. Mi rol incluyó la ejecución de lógica compleja y la conexión de APIs para entregar valor estratégico.
+
+Fui responsable de asegurar la continuidad operativa y la eficiencia técnica, utilizando mi dominio en el stack tecnológico para desarrollar herramientas que facilitaran la adopción de nuevas tecnologías y garantizaran la entrega oportuna de prototipos funcionales y datos confiables, contribuyendo directamente a la agilidad del negocio.

@@ -1,0 +1,32 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: SUTHERLAND GLOBAL SERVICES
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Ingeniero de Soporte Técnico | Desarrollador Full Stack
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un Ingeniero con sólida trayectoria, combinando más de 14 años de experiencia en el sector industrial con un perfil de desarrollador Full Stack. Mi formación me permite abordar desafíos técnicos complejos desde una perspectiva integral, desarrollando soluciones robustas para aplicaciones web con Next.js, React, TypeScript y Node.js, además de poseer una fuerte base en automatización y mantenimiento de equipos industriales, lo que se alinea con el soporte de dispositivos IoT y hardware.
+
+Cuento con experiencia en la creación de micro-soluciones, automatizaciones e integraciones, enfocadas en la resolución de problemas y la mejora de la experiencia del usuario. Mi capacidad para comunicar información técnica compleja de manera clara, junto con un enfoque proactivo y de soporte funcional avanzado, me permite guiar a los usuarios y eliminar barreras de adopción tecnológica. Poseo un nivel de inglés B2.
+
+APTITUDES CLAVE:
+--------------------
+- Soporte Técnico y Troubleshooting (IoT, Aplicaciones Web, Hardware)
+- Desarrollo Full Stack (Next.js, React, Node.js, TypeScript, Python)
+- Mantenimiento y Diagnóstico de Sistemas Electrónicos e Industriales
+- Automatización e Integraciones de Sistemas
+- Sistemas Operativos (Windows, Linux)
+- Gestión de Bases de Datos (PostgreSQL, MongoDB)
+- Comunicación Técnica Efectiva y Empatía con el Cliente
+- Resolución Proactiva de Problemas
+- Cloud Computing (AWS, Google Cloud)
+- Familiaridad con Herramientas de Gestión de Soporte (Jira, Zendesk, Salesforce)
+- Inglés Avanzado (B2)
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack en SPARK TEAM, lideré el desarrollo y la implementación de soluciones técnicas avanzadas, micro soluciones y automatizaciones. Mi rol implicó traducir ideas complejas en prototipos funcionales y eliminar barreras para la adopción tecnológica, lo cual es directamente aplicable a la resolución de problemas y mejora de la experiencia del usuario en un entorno de soporte técnico.
+
+Fui responsable de proporcionar soporte funcional avanzado, guiando a los usuarios en la estructuración de procesos y la conexión de APIs, demostrando una sólida capacidad para diagnosticar y resolver incidencias complejas. Esta experiencia incluye el dominio de diversas herramientas tecnológicas y la ejecución de integraciones clave para generar valor.

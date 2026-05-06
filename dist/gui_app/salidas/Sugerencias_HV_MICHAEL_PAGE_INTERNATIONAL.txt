@@ -1,0 +1,41 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: MICHAEL PAGE INTERNATIONAL
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Project Manager Técnico | Liderazgo de Proyectos y Equipos | Experiencia UX/UI
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un profesional híbrido con más de 14 años de experiencia en ingeniería industrial y una sólida trayectoria en desarrollo full-stack, especializándome en UX/UI. He liderado proyectos técnicos complejos, desde la concepción hasta la implementación, gestionando equipos multidisciplinarios, controlando presupuestos y optimizando recursos. Mi experiencia incluye la planificación estratégica, la estructuración de soluciones técnicas, la automatización y la integración de herramientas modernas para la eliminación de barreras de adopción tecnológica.
+
+Cuento con una probada capacidad para implementar metodologías, documentar proyectos y desarrollar interfaces de usuario altamente funcionales con Next.js, React y TypeScript. Mi objetivo es aportar una visión integral a la gestión de proyectos, combinando mi expertise técnico y de liderazgo para entregar soluciones innovadoras y de alto impacto.
+
+APTITUDES CLAVE:
+--------------------
+- Gestión de Proyectos
+- Liderazgo de Equipos
+- Planificación estratégica
+- Estructuración de soluciones
+- UX/UI
+- Control de presupuestos
+- Gestión de recursos
+- Implementación de metodologías
+- Documentación de proyectos
+- Desarrollo Full-Stack
+- Next.js
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
+- Google Apps Script
+- AppSheet
+- Integraciones API
+- Resolución de problemas
+- Comunicación efectiva.
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full-Stack, he ejercido un rol de liderazgo técnico y de proyectos, siendo responsable de la planificación, estructuración y ejecución de microsoluciones, automatizaciones e integraciones complejas. Mi labor incluyó la definición y aplicación de herramientas como Google Apps Script y AppSheet para potenciar el desarrollo, así como la eliminación de barreras de adopción tecnológica mediante prototipos funcionales y soporte avanzado.
+
+En este rol, he gestionado activamente el stack tecnológico, la estrategia técnica y los accesos, asegurando la entrega de soluciones de valor y guiando a los usuarios en la estructuración de sus procesos. Esto ha implicado un fuerte componente de coordinación, gestión de recursos y toma de decisiones para cumplir con los objetivos estratégicos.

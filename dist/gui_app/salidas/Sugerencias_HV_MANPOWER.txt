@@ -1,0 +1,32 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: MANPOWER
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Ingeniero de Preventa y Arquitecto de Soluciones con Liderazgo Técnico y Experiencia Full Stack
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un profesional con una sólida trayectoria en ingeniería mecánica y una profunda especialización como desarrollador Full Stack, sumando más de 14 años de experiencia industrial y un enfoque consultivo en el diseño y validación de soluciones tecnológicas. Mi perfil híbrido me permite integrar la visión estratégica de la ingeniería con la capacidad de ejecución en desarrollo de software, aportando valor en roles de liderazgo técnico, arquitectura de soluciones y consultoría B2B. Cuento con experiencia demostrable en la creación de micro-soluciones, automatizaciones e integraciones, transformando necesidades complejas en prototipos funcionales y estrategias técnicas eficientes.
+Mi expertise técnico abarca el ecosistema Full Stack, incluyendo Next.js, React, TypeScript, Node.js, Express, PostgreSQL, AWS, Google Cloud y Python (FastAPI), así como la implementación de agentes de IA y la generación de APIs RESTful. Poseo excelentes habilidades de comunicación y presentación, esenciales para liderar conversaciones técnicas y comerciales, eliminar barreras de adopción tecnológica y capacitar a usuarios. Mi enfoque analítico y orientación a resultados se complementan con un nivel de inglés intermedio alto (B2), ideal para colaborar en entornos globales y en la construcción de modelos de servicios innovadores.
+
+APTITUDES CLAVE:
+--------------------
+- Diseño y Arquitectura de Soluciones Tecnológicas
+- Ingeniería de Preventa y Consultoría Técnica B2B
+- Liderazgo Técnico y Estrategia Digital
+- Desarrollo Full Stack (Next.js, React, Node.js, TypeScript, Python)
+- Integración de Sistemas (APIs RESTful, Google Apps Script, Microservicios)
+- Computación en la Nube (AWS, Google Cloud)
+- Automatización de Procesos y Scripting
+- Gestión de Proyectos y Equipos
+- Habilidades de Comunicación y Presentación Ejecutiva
+- Negociación y Gestión de Stakeholders
+- Análisis de Necesidades y Transformación Digital
+- Capacitación Técnica y Soporte Funcional Avanzado
+- Inglés (B2 - Intermedio Alto)
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Lead Técnico, fui responsable del diseño, desarrollo y validación de soluciones tecnológicas integrales para ALIANZA TEAM, creando micro-soluciones, automatizaciones, integraciones y prototipos funcionales. Mi rol implicó traducir ideas complejas en código y lógica avanzada, eliminando barreras de adopción tecnológica y demostrando el potencial de las herramientas a usuarios y socios estratégicos, en línea con un enfoque de preventa y consultoría técnica.
+Lideré la definición de estrategias técnicas y proporcioné soporte funcional avanzado, guiando a los usuarios en la estructuración de procesos. Esto incluyó el dominio del stack tecnológico para la automatización y scripting, y la ejecución de integraciones clave para generar valor, aplicando un enfoque consultivo en todas las fases del ciclo de vida de la solución y colaborando en la gestión estratégica técnica.

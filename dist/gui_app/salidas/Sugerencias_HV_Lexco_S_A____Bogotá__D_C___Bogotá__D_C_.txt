@@ -1,0 +1,32 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Lexco S.A. - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Ingeniero Desarrollador Full Stack Senior | Python, PostgreSQL & JavaScript
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un desarrollador Full Stack con más de 2 años de experiencia dedicada al desarrollo web, complementados por una sólida trayectoria de 14 años en ingeniería industrial. Mi perfil híbrido me permite abordar soluciones integrales, desde el diseño y mantenimiento de aplicaciones web escalables hasta la optimización de bases de datos y el despliegue en servidores.
+
+Poseo conocimientos avanzados en JavaScript (Next.js, React, Node.js), Python (FastAPI) y PostgreSQL, aplicando estas tecnologías para crear micro soluciones, automatizaciones e integraciones complejas. Mi experiencia incluye una gran capacidad para el trabajo colaborativo en equipos técnicos, asegurando el soporte funcional avanzado y la eliminación de barreras de adopción tecnológica, con un enfoque en la eficiencia y la escalabilidad.
+
+APTITUDES CLAVE:
+--------------------
+- Python
+- JavaScript
+- PostgreSQL
+- Desarrollo y mantenimiento de aplicaciones web
+- Diseño y optimización de bases de datos
+- Despliegue y soporte de aplicaciones en servidores
+- Next.js, React, Node.js, Express
+- fastAPI
+- Git y GitHub
+- Resolución de problemas
+- Trabajo colaborativo
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y consultor Full Stack, fui responsable de aportar la capacidad técnica para el desarrollo y despliegue de soluciones web y prototipos funcionales. Esto incluyó la creación de micro soluciones, automatizaciones e integraciones, utilizando un stack tecnológico variado para potenciar las funcionalidades y asegurar la eficiencia operativa.
+
+Adicionalmente, participé activamente en el diseño de la lógica avanzada de las aplicaciones, la conexión de APIs y la estructuración de la lógica compleja. Mi rol también se centró en la optimización de la adopción tecnológica y en resolver dudas que iban más allá del soporte técnico tradicional para alinear los procesos de usuario con las herramientas desarrolladas.

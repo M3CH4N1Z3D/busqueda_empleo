@@ -1,0 +1,32 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Alianza Temporal S.A.S - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Ingeniero Senior de Desarrollo de Software Full Stack
+
+RESUMEN PROFESIONAL:
+--------------------
+Ingeniero con más de 4 años de experiencia sólida en desarrollo de software Full Stack, complementada por una extensa trayectoria en ingeniería mecánica, lo que me permite abordar desafíos técnicos desde una perspectiva integral. Poseo experiencia en el diseño y la implementación de soluciones robustas utilizando tecnologías como Next.js, React, TypeScript, Node.js, Express, Python (FastAPI), MongoDB y PostgreSQL. Mi expertise incluye la creación de APIs RESTful y el despliegue de aplicaciones en entornos cloud (AWS, Google Cloud).
+
+Mi enfoque se centra en las buenas prácticas de desarrollo, la orientación a la calidad y la entrega de soluciones eficientes y escalables. Tengo habilidades probadas en la creación y ejecución de pruebas unitarias y automatizadas, así como en la gestión de control de versiones con Git y GitHub. He trabajado eficazmente con metodologías ágiles como SCRUM y Kanban, y demuestro un fuerte compromiso con la generación de documentación técnica y funcional para asegurar la mantenibilidad y la adopción de las herramientas.
+
+APTITUDES CLAVE:
+--------------------
+- Desarrollo Full Stack (Next.js, React, Node.js, Python, TypeScript)
+- Bases de Datos SQL y NoSQL (PostgreSQL, MongoDB)
+- Metodologías Ágiles (SCRUM, Kanban)
+- Control de Versiones (Git, GitHub)
+- Pruebas Unitarias y Automatizadas
+- Documentación Técnica y Funcional
+- Diseño y Optimización de APIs RESTful
+- Buenas Prácticas de Desarrollo y Calidad de Software
+- Implementación de Soluciones Escalables
+- Modelado y Optimización de Consultas
+- Resolución de Problemas Técnicos
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, lideré el desarrollo y la ejecución de soluciones técnicas complejas, incluyendo micro soluciones, automatizaciones, integraciones y prototipos funcionales. Mi rol principal fue aportar la capacidad técnica para traducir ideas en código funcional, estructurar lógicas avanzadas y eliminar barreras de adopción tecnológica.
+
+Fui responsable del dominio y gestión del stack tecnológico, aplicando mis habilidades en desarrollo y scripting para potenciar soluciones. Aseguré la creación de herramientas eficientes y escalables, gestioné la documentación técnica y proporcioné soporte funcional avanzado, guiando a los usuarios en la optimización de sus procesos dentro de las herramientas.

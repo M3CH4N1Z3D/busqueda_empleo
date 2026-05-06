@@ -1,0 +1,28 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: MEGA GUAY COLOMBIA SAS - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Desarrollador Full Stack Senior / Líder Técnico
+
+RESUMEN PROFESIONAL:
+--------------------
+Desarrollador Full Stack con una sólida trayectoria de más de 14 años, combinando experiencia en ingeniería mecánica con un enfoque especializado en el desarrollo y mantenimiento de software. Mi expertise abarca la construcción de soluciones técnicas innovadoras y la implementación de funcionalidades complejas, con un dominio probado en tecnologías clave como Python, JavaScript (incluyendo frameworks como Next.js, React, Node.js y TypeScript), Angular, y bases de datos relacionales como PostgreSQL, incluyendo consultas avanzadas en SQL.
+
+Actualmente, lidero el desarrollo de microsoluciones y automatizaciones, asegurando la efectiva integración de APIs RESTful y la aplicación de principios de Clean Architecture. Poseo una fuerte orientación a resultados, proactividad y habilidades de liderazgo para asumir retos, contribuyendo al éxito de los proyectos mediante un enfoque integral y técnico.
+
+APTITUDES CLAVE:
+--------------------
+- Desarrollo Full Stack (Python
+- JavaScript
+- Node.js
+- React
+- Angular
+- TypeScript); Bases de Datos Relacionales (PostgreSQL
+- SQL); Diseño y Consumo de APIs RESTful; Arquitectura Limpia; Integración de Sistemas; Automatización de Procesos; Liderazgo Técnico; Metodologías Ágiles (Scrum); Resolución de Problemas; Proactividad; Orientación a Resultados.
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, he liderado el desarrollo de soluciones técnicas y la creación de microsoluciones, automatizaciones e integraciones funcionales, asumiendo la responsabilidad de la ejecución de lógica avanzada y la conexión de APIs. Esta experiencia incluyó el dominio de un stack tecnológico diverso para construir funcionalidades según requerimientos específicos y superar barreras de adopción tecnológica.
+
+Gestioné la estrategia técnica, garantizando la correcta integración de sistemas y la aplicación de arquitecturas escalables, además de proporcionar soporte funcional avanzado y liderar el desarrollo y la implementación de prototipos.

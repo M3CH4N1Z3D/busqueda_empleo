@@ -1,0 +1,34 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Empresa confidencial
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+IT Project Manager | Líder Técnico y Arquitecto de Soluciones
+
+RESUMEN PROFESIONAL:
+--------------------
+Desarrollador Full Stack e Ingeniero Mecánico con más de 14 años de experiencia combinada en el sector industrial y desarrollo de software, aportando una visión híbrida para la implementación y gestión de soluciones tecnológicas. Mi trayectoria incluye roles de liderazgo técnico y coordinación, donde he demostrado capacidad para analizar procesos de negocio, diseñar arquitecturas de sistemas y ejecutar proyectos tecnológicos complejos, desde la ideación hasta la puesta en producción.
+
+Tengo experiencia en el diseño y desarrollo de soluciones tecnológicas robustas, utilizando tecnologías como Next.js, React, TypeScript, Node.js, Express, Python (FastAPI), PostgreSQL y servicios cloud (AWS, Google Cloud). He liderado la creación de microsoluciones, automatizaciones e integraciones, gestionando el ciclo de vida completo de proyectos y brindando soporte funcional avanzado, siempre con un enfoque en la mejora continua y la optimización de procesos. Mi perfil se alinea con la gestión de proyectos, la arquitectura empresarial y la transformación digital, con un nivel de inglés avanzado.
+
+APTITUDES CLAVE:
+--------------------
+- Gestión de Proyectos Tecnológicos
+- Liderazgo y Coordinación de Equipos IT
+- Análisis y Diseño de Arquitectura de Sistemas
+- Desarrollo Full Stack (Next.js, React, Node.js, Python, PostgreSQL)
+- Optimización y Automatización de Procesos
+- Integración de Sistemas y APIs
+- Cloud Computing (AWS, Google Cloud)
+- Soporte Técnico y Funcional Avanzado
+- Documentación Técnica y Manuales de Usuario
+- Gestión de Proveedores y Terceros
+- Análisis de Datos y Generación de Informes
+- Metodologías de Gestión de Proyectos
+- Inglés Avanzado
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, lideré el desarrollo y la ejecución de diversas soluciones tecnológicas, actuando como el principal referente técnico para la ideación y materialización de proyectos. Mi rol implicó la creación de micro-soluciones, automatizaciones e integraciones de sistemas, con el objetivo de eliminar barreras de adopción tecnológica y resolver desafíos complejos, estructurando la lógica avanzada y conectando APIs.
+
+Además, fui responsable del dominio y aplicación del stack tecnológico, incluyendo Google Apps Script y AppSheet, para potenciar las soluciones. Gestioné la estrategia técnica, incluyendo la administración de permisos y accesos, y brindé soporte funcional avanzado, asegurando la continuidad operacional y la optimización de los procesos mediante la implementación de soluciones tecnológicas.

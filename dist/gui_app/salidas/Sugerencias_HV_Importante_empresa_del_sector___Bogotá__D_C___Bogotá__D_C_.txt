@@ -1,0 +1,37 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Importante empresa del sector - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Ingeniero de Estabilización y Mejoramiento de Software Senior con Expertise Full Stack
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un desarrollador Full Stack con más de 14 años de experiencia combinada en ingeniería industrial y desarrollo de software, aportando una visión integral para la implementación, estabilización y mejoramiento de soluciones tecnológicas. Poseo un sólido dominio en la creación y mantenimiento de aplicaciones robustas, utilizando tecnologías clave como Next.js, React, TypeScript, Node.js, Express, PostgreSQL y el diseño de APIs RESTful. Mi experiencia me permite identificar y resolver desafíos complejos, asegurando la eficiencia y el correcto funcionamiento de los sistemas.
+
+He liderado la creación de micro-soluciones, la eliminación de barreras de adopción tecnológica y la provisión de soporte funcional avanzado, gestionando el ciclo de vida de incidencias y la optimización del rendimiento de aplicaciones. Estoy capacitado para configurar plataformas, capacitar a usuarios y coordinar despliegues, trabajando proactivamente con equipos de desarrollo para garantizar la estabilidad operativa y la mejora continua del software.
+
+APTITUDES CLAVE:
+--------------------
+- Soporte técnico de aplicaciones (Nivel 1 y 2)
+- Gestión de incidencias y mesas de ayuda
+- Pruebas de API (REST y Postman)
+- Bases de datos (PostgreSQL
+- MongoDB)
+- Tecnologías Web (Next.js
+- React
+- Node.js
+- TypeScript)
+- Programación Full Stack
+- Configuración y monitoreo de plataformas
+- Implementación y estabilización de software
+- Capacitación a usuarios
+- Coordinación de despliegues y mantenimiento
+- Resolución de problemas
+- Servicio al cliente
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, he liderado la implementación y estabilización de soluciones de software, desarrollando micro-soluciones, automatizaciones e integraciones para optimizar procesos y eliminar barreras en la adopción tecnológica. Mi rol incluyó la ejecución de lógica compleja y la conexión de APIs, demostrando el potencial de las herramientas de forma práctica.
+
+Fui responsable de proporcionar soporte funcional avanzado a los usuarios, gestionando accesos y resolviendo dudas técnicas para asegurar el correcto funcionamiento y la continuidad operativa de los sistemas, trabajando proactivamente en la mejora y el rendimiento de las aplicaciones.

@@ -1,0 +1,38 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Bairesdev S.A.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Senior React Developer | Full Stack Engineer con Liderazgo Técnico
+
+RESUMEN PROFESIONAL:
+--------------------
+Desarrollador Full Stack con sólida experiencia en React, Next.js y un amplio stack de tecnologías frontend y backend, incluyendo TypeScript, Node.js, Express y PostgreSQL. Poseo una trayectoria en el diseño y la implementación de soluciones complejas, la creación de interfaces de usuario altamente funcionales y amigables, y la integración de APIs, destacando mi habilidad para abordar desafíos técnicos desde una perspectiva integral.
+
+Mi perfil se complementa con un rol de liderazgo técnico y consultoría, enfocado en el desarrollo de micro-soluciones, automatizaciones e integraciones para impulsar la adopción tecnológica y optimizar procesos. Cuento con experiencia en la gestión de servicios cloud (AWS, GoogleCloud) y el uso de herramientas modernas, buscando aportar valor en entornos que requieran un enfoque innovador y resolutivo.
+
+APTITUDES CLAVE:
+--------------------
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6/ES7)
+- HTML5
+- CSS3
+- Node.js
+- Express.js
+- PostgreSQL
+- MongoDB
+- APIs RESTful
+- Git / GitHub
+- AWS / GoogleCloud
+- Angular
+- UX/UI
+- Resolución de Problemas
+- Liderazgo Técnico
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, he liderado el desarrollo de soluciones técnicas innovadoras y la creación de micro-soluciones, automatizaciones e integraciones. Mi rol se centró en aportar la capacidad técnica para ejecutar proyectos complejos, desde la conexión de APIs y la estructuración de lógica avanzada hasta la creación de prototipos funcionales y la eliminación de barreras para la adopción tecnológica.
+
+Fui responsable de dominar el stack tecnológico, utilizando mis habilidades en desarrollo para potenciar soluciones, realizar integraciones clave y proporcionar soporte funcional avanzado, guiando a los usuarios en la estructuración de sus procesos dentro de las herramientas.

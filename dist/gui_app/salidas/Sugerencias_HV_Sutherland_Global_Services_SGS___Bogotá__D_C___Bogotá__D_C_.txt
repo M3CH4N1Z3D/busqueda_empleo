@@ -1,0 +1,37 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Sutherland Global Services SGS - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Technical Project Manager | Liderazgo de Proyectos de Software y Consultoría
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un Project Manager experimentado con una sólida trayectoria de más de 6 años liderando equipos y gestionando proyectos de software en entornos dinámicos y de consultoría, con experiencia directa en la entrega de soluciones a clientes externos. He gestionado el ciclo de vida completo de desarrollo de software (SDLC), desde el descubrimiento hasta el diseño y la implementación de soluciones personalizadas, asegurando la entrega a tiempo, dentro del presupuesto y con la calidad requerida, incluso en proyectos complejos y simultáneos. Mi experiencia abarca la gestión de scope, tiempo, costos, calidad, recursos humanos, comunicaciones, riesgos y stakeholders, aplicando metodologías y herramientas de gestión de proyectos para definir tareas, planificar y monitorear el progreso.
+
+Mi profunda experiencia como desarrollador Full Stack, que abarca tecnologías como Next.js, React, Node.js, PostgreSQL y la implementación en AWS/Google Cloud, me permite tender puentes efectivos entre los requisitos de negocio y las soluciones técnicas. Me destaco en la gestión proactiva de issues, la mitigación de riesgos y la optimización de procesos, aportando una visión híbrida de ingeniería y tecnología digital para maximizar el retorno de inversión y fortalecer las relaciones con los clientes.
+
+APTITUDES CLAVE:
+--------------------
+- Gestión Integral de Proyectos
+- Liderazgo de Equipos Multidisciplinares
+- Gestión del Ciclo de Vida de Desarrollo de Software (SDLC)
+- Consultoría y Entrega de Soluciones a Clientes Externos
+- Gestión de Alcance
+- Tiempo
+- Costo y Calidad
+- Gestión de Riesgos y Stakeholders
+- Comunicación Proficiente en Inglés (B2)
+- Gestión de Presupuesto y Pronóstico de Ingresos
+- Resolución de Problemas Complejos
+- Desarrollo Full-Stack
+- Integración de Soluciones y APIs
+- Automatización de Procesos
+- Soporte Funcional Avanzado
+- Business Acumen
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full-Stack para Alianza Team, fui responsable del liderazgo técnico y la gestión de la ejecución de soluciones, incluyendo la conceptualización y creación de microsoluciones, automatizaciones e integraciones estratégicas. Mi rol implicó traducir requerimientos complejos en prototipos funcionales y operativos, asegurando la entrega de valor y la superación de barreras para la adopción tecnológica por parte de los usuarios finales.
+
+Esto abarcó la gestión de la caja de herramientas tecnológica, la implementación de integraciones críticas para iniciativas prioritarias, y la provisión de soporte funcional avanzado. Estas responsabilidades se centraron en la planeación y ejecución de entregables técnicos, la gestión de permisos y accesos, y la coordinación para garantizar que las soluciones se desarrollaran y adoptaran eficazmente, alineándose con los objetivos estratégicos del cliente.

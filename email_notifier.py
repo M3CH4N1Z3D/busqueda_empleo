@@ -20,9 +20,9 @@ class EmailNotifier:
         personal_email_raw = os.getenv("PERSONAL_EMAIL")
         self.personal_email = personal_email_raw.strip() if personal_email_raw else ""
 
-    def enviar_oferta(self, titulo: str, empresa: str, score: int, url: str, pdf_path: str):
-        if not self.spm_email or not self.personal_email:
-            raise ValueError("Las direcciones de correo (SPM_EMAIL o PERSONAL_EMAIL) están vacías o no se encontraron en el archivo .env")
+    def enviar_oferta(self, titulo: str, empresa: str, score: int, url: str, txt_path: str, destinatario: str = None):
+        if not self.spm_email or (not self.personal_email and not destinatario):
+            raise ValueError("Las direcciones de correo (SPM_EMAIL o destinatario) están vacías")
             
         if not self.spm_password:
             print("Faltan credenciales de correo (contraseña) en el archivo .env")
@@ -30,7 +30,7 @@ class EmailNotifier:
 
         msg = MIMEMultipart()
         msg['From'] = self.spm_email
-        msg['To'] = self.personal_email
+        msg['To'] = destinatario if destinatario else self.personal_email
         msg['Subject'] = Header(f"¡Match de Empleo Encontrado! {titulo} en {empresa} (Score: {score})", 'utf-8')
 
         body = f"""
@@ -44,20 +44,20 @@ class EmailNotifier:
         - Score de Match: {score}/100
         - Enlace: {url}
 
-        Adjunto encontrarás tu Hoja de Vida adaptada específicamente para esta oferta.
+        Adjunto encontrarás un archivo de texto con las sugerencias de adaptación para tu Hoja de Vida.
 
         ¡Mucho éxito en tu aplicación!
         """
         msg.attach(MIMEText(body, 'plain'))
 
-        # Adjuntar PDF
-        if os.path.exists(pdf_path):
-            with open(pdf_path, "rb") as f:
-                part = MIMEApplication(f.read(), Name=os.path.basename(pdf_path))
-            part['Content-Disposition'] = f'attachment; filename="{os.path.basename(pdf_path)}"'
+        # Adjuntar TXT
+        if os.path.exists(txt_path):
+            with open(txt_path, "rb") as f:
+                part = MIMEApplication(f.read(), Name=os.path.basename(txt_path))
+            part['Content-Disposition'] = f'attachment; filename="{os.path.basename(txt_path)}"'
             msg.attach(part)
         else:
-            print(f"Advertencia: No se encontró el archivo PDF en {pdf_path}")
+            print(f"Advertencia: No se encontró el archivo TXT en {txt_path}")
 
         try:
             # Conectar al servidor SMTP

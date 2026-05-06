@@ -1,0 +1,27 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: WSP COLOMBIA SAS
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Coordinador Técnico de Proyectos | Ingeniero Especialista en Gestión de Datos y Automatización
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un Ingeniero Mecánico con más de 14 años de experiencia en el sector industrial, complementada con una sólida trayectoria como Desarrollador Full Stack. Mi perfil me permite abordar desafíos complejos desde una perspectiva integral, destacando en la programación lógica, el desarrollo de soluciones técnicas y la estructuración de datos. Poseo experiencia en el liderazgo de la implementación de micro soluciones, automatizaciones e integraciones, con un enfoque en la optimización de procesos y la eliminación de barreras para la adopción tecnológica.
+Mi capacidad abarca el diseño de APIs, la administración de bases de datos y el desarrollo de interfaces de usuario funcionales, asegurando la integridad y transformación de la información. Estoy preparado para aportar mi visión híbrida entre ingeniería y tecnología digital para coordinar la configuración de plataformas de gestión de proyectos, el análisis de datos, la estandarización de procesos y la capacitación de equipos. Cuento con dominio avanzado del idioma inglés, crucial para colaborar en entornos globales.
+
+APTITUDES CLAVE:
+--------------------
+- Control y Gestión de Proyectos
+- Estructuración y Transformación de Datos
+- Integración de Sistemas y Automatización
+- Análisis de Costos y Programación
+- Capacitación y Soporte Técnico Avanzado
+- Habilidades Analíticas y Orientación al Detalle
+- Desarrollo Backend y Gestión de Bases de Datos (PostgreSQL, MongoDB)
+- Inglés Avanzado (B2)
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Actualmente, en mi rol como CTO y Consultor Full-Stack para Alianza Team en SPARK TEAM, lidero el desarrollo de soluciones técnicas, la creación de micro soluciones y la implementación de automatizaciones e integraciones. Mi enfoque se centra en aportar la capacidad técnica para ejecutar prototipos funcionales y eliminar las fricciones que impiden la adopción de nuevas tecnologías, demostrando su potencial en la práctica.
+Gestiono la caja de herramientas tecnológica, incluyendo Google Apps Script y AppSheet, y aseguro la correcta configuración y el soporte funcional avanzado para usuarios. Esta experiencia me ha proporcionado una sólida base en la coordinación técnica, la gestión de accesos y la estandarización de procesos, habilidades directamente aplicables a la configuración y gestión de plataformas de proyectos, así como a la alineación de datos y la capacitación de equipos.

@@ -1,0 +1,43 @@
+SUGERENCIAS DE ADAPTACIÓN DE HOJA DE VIDA PARA: Staffing de Colombia - Bogotá, D.C., Bogotá, D.C.
+============================================================
+
+TÍTULO SUGERIDO:
+--------------------
+Desarrollador Full Stack Senior
+
+RESUMEN PROFESIONAL:
+--------------------
+Soy un desarrollador Full Stack con más de 14 años de experiencia combinando ingeniería mecánica con el desarrollo de software, lo que me permite abordar desafíos tecnológicos desde una perspectiva integral. Me especializo en la creación de interfaces de usuario modernas y eficientes utilizando Next.js, React y TypeScript, y en la construcción de backends robustos con Node.js, Express y Python (FastAPI). Cuento con experiencia sólida en el diseño e implementación de APIs RESTful y en la gestión de bases de datos SQL (PostgreSQL) y NoSQL (MongoDB).
+
+Mi trayectoria incluye el liderazgo técnico, la automatización de procesos, la integración de sistemas y el despliegue en entornos cloud (AWS, Google Cloud). Poseo una probada capacidad para resolver problemas complejos, adaptarme a nuevas tecnologías y trabajar bajo metodologías ágiles, siempre buscando entregar soluciones que generen un impacto positivo y real en plataformas digitales.
+
+APTITUDES CLAVE:
+--------------------
+- React.js
+- Next.js
+- TypeScript
+- Node.js
+- Express.js
+- Python
+- FastAPI
+- APIs RESTful
+- PostgreSQL
+- MongoDB
+- Git
+- GitHub
+- AWS
+- Google Cloud
+- Desarrollo Backend
+- Desarrollo Frontend
+- Resolución de Problemas
+- Liderazgo Técnico
+- Metodologías Ágiles
+- Comunicación Efectiva
+- Integración de Sistemas
+- Automatización
+
+EXPERIENCIA SPARK TEAM:
+--------------------
+Como CTO y Consultor Full Stack, fui responsable del desarrollo de soluciones técnicas innovadoras, incluyendo micro-soluciones, automatizaciones e integraciones, y la creación de prototipos funcionales. Mi rol era aportar capacidad técnica para ejecutar proyectos complejos, conectando APIs y estructurando lógicas avanzadas para construir y mantener un backend robusto y eficiente.
+
+Además, me encargué de desarrollar herramientas y funcionalidades que eliminaran las barreras de adopción tecnológica, mejorando la usabilidad y eficiencia de las plataformas. Esto implicó una profunda comprensión del stack tecnológico para la implementación y optimización de sistemas, asegurando la entrega de interfaces modernas y eficientes para el usuario final.
